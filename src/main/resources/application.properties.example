@@ -1,0 +1,4 @@
+spring.application.name=blog
+spring.datasource.url=jdbc:postgresql://localhost:5432/springDbBlog
+spring.datasource.username=postgres
+spring.datasource.password=password
